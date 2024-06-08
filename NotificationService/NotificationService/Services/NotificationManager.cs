@@ -20,7 +20,7 @@ namespace NotificationServiceLibrary.Services
             _services[key] = service;
         }
 
-        public async Task<NotificationResult> SendNotificationAsync(string serviceKey, NotificationRequest request)
+        public async Task<NotificationResponse> SendNotificationAsync(string serviceKey, NotificationRequest request)
         {
             if (_services.ContainsKey(serviceKey))
             {

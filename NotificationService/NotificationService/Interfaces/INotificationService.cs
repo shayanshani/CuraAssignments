@@ -5,6 +5,6 @@ namespace NotificationServiceLibrary.Interfaces
 {
     public interface INotificationService
     {
-        Task<NotificationResult> SendNotificationAsync(NotificationRequest request);
+        Task<NotificationResponse> SendNotificationAsync(NotificationRequest request);
     }
 }

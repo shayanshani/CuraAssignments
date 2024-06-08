@@ -8,9 +8,9 @@ namespace NotificationServiceLibrary.Services
 {
     public class EmailNotificationService : BaseNotificationService
     {
-        public override async Task<NotificationResult> SendNotificationAsync(NotificationRequest request)
+        public override async Task<NotificationResponse> SendNotificationAsync(NotificationRequest request)
         {
-            var result = new NotificationResult
+            var result = new NotificationResponse
             {
                 NotificationId = request.NotificationId
             };
