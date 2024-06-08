@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralizedCachingAPI", "CentralizedCachingAPI\CentralizedCachingAPI.csproj", "{B57453F6-6DF7-458E-8B97-068F79FC8F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57453F6-6DF7-458E-8B97-068F79FC8F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57453F6-6DF7-458E-8B97-068F79FC8F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57453F6-6DF7-458E-8B97-068F79FC8F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57453F6-6DF7-458E-8B97-068F79FC8F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {750540B5-6261-4B92-8300-45C02A5C9F32}
+	EndGlobalSection
+EndGlobal
