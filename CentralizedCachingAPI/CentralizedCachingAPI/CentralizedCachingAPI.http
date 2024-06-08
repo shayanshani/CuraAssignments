@@ -1,6 +1,0 @@
-@CentralizedCachingAPI_HostAddress = http://localhost:5283
-
-GET {{CentralizedCachingAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

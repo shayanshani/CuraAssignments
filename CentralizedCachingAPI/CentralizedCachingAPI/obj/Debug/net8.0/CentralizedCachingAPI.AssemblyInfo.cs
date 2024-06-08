@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CentralizedCachingAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb1f1ba508fe1d45a4aa3030ef945028d6c614f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7b797fb6af575ae9832b8b9d49c3471e000751")]
 [assembly: System.Reflection.AssemblyProductAttribute("CentralizedCachingAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CentralizedCachingAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
