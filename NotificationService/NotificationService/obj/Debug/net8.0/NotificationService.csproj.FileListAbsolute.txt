@@ -1,0 +1,13 @@
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.sourcelink.json
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Users\Saqib Ashraf\source\repos\shayanshani\CuraNotificationService\NotificationService\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll

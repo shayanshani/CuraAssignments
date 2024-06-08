@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saqib Ashraf\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj": {}
+    "C:\\Users\\Saqib Ashraf\\source\\repos\\shayanshani\\CuraNotificationService\\NotificationService\\NotificationService\\NotificationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saqib Ashraf\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj": {
+    "C:\\Users\\Saqib Ashraf\\source\\repos\\shayanshani\\CuraNotificationService\\NotificationService\\NotificationService\\NotificationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saqib Ashraf\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "projectUniqueName": "C:\\Users\\Saqib Ashraf\\source\\repos\\shayanshani\\CuraNotificationService\\NotificationService\\NotificationService\\NotificationService.csproj",
         "projectName": "NotificationService",
-        "projectPath": "C:\\Users\\Saqib Ashraf\\source\\repos\\NotificationService\\NotificationService\\NotificationService.csproj",
+        "projectPath": "C:\\Users\\Saqib Ashraf\\source\\repos\\shayanshani\\CuraNotificationService\\NotificationService\\NotificationService\\NotificationService.csproj",
         "packagesPath": "C:\\Users\\Saqib Ashraf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saqib Ashraf\\source\\repos\\NotificationService\\NotificationService\\obj\\",
+        "outputPath": "C:\\Users\\Saqib Ashraf\\source\\repos\\shayanshani\\CuraNotificationService\\NotificationService\\NotificationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saqib Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
